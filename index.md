@@ -14,7 +14,7 @@ Grassroots Science is an open research collaboration initiated by members of var
 
 ## What can I get from the collaboration?
 
-By joining this collaboration, you become part of a collective effort to shape the future of language model research. This initiative serves as a platform for advocating grassroots projects that drive significant advancements. We highly value and appreciate meaningful contributions, and significant contributors will be invited to co-author our upcoming paper by adapting a similar point system as [SIGSEA's SEACrowd]([https://www.sigsea.org/](https://seacrowd.github.io/)). More details will be announced during the launch.
+By joining this collaboration, you become part of a collective effort to shape the future of language model research. This initiative serves as a platform for advocating grassroots projects that drive significant advancements. We highly value and appreciate meaningful contributions, and significant contributors will be invited to co-author our upcoming paper by adapting a similar point system as [SIGSEA's SEACrowd](https://seacrowd.github.io/). More details will be announced during the launch.
 
 ## Join Us
 
