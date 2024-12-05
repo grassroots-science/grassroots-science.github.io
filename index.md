@@ -2,18 +2,16 @@
 layout: default
 ---
 
-Grassroots Science is a global initiative that harnesses grassroots efforts to collaboratively gather resources for the development of multilingual large language models.
+Grassroots Science: A Global Initiative for Multilingual Language Models
 
-# About The Initiative
+# About the Initiative
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Grassroots Science is a year-long global collaboration aimed at collecting multilingual data through crowdsourcing, initiated by grassroots communities who believe in the power of collective efforts to achieve significant advancements in research. Our goal is to create the best resources for training multilingual large language models by engaging researchers fluent in various languages, dialects, and tongues. We plan to launch the project in early February 2025.
 
-# Who is organizing?
+# Who is Organizing?
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Grassroots Science is an open collaboration initiated by HuggingFace, GENCI, and IDRIS, organized as an academic partnership. This research workshop brings together academic, industrial, and independent researchers from diverse affiliations, with interests spanning AI, NLP, ML, and social sciences.
 
-# Join us
+# Join Us
 
-
+Stay updated by visiting our X account: https://x.com/GrassrootsSci. We look forward to your participation!
