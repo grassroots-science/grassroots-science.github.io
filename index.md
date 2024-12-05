@@ -10,7 +10,7 @@ Grassroots Science is a year-long global collaboration aimed at collecting multi
 
 ## Who is Organizing?
 
-Grassroots Science is an open research collaboration initiated by members of various grassroots communities, including [SIGSEA](https://www.sigsea.org/), [Masakhane](https://www.masakhane.io/), and past collaborators of [BigScience Workshop](https://bigscience.huggingface.co/). This research collaboration brings together academic, industrial, and independent researchers from diverse affiliations, with interests spanning AI, NLP, ML, and social sciences.
+Grassroots Science is an open research collaboration initiated by members of various grassroots communities, including [SIGSEA (aka SEACrowd)](https://www.sigsea.org/), [Masakhane](https://www.masakhane.io/), [Rojak NLP](https://x.com/rojaknlp) and past collaborators of [BigScience Workshop](https://bigscience.huggingface.co/). This research collaboration brings together academic, industrial, and independent researchers from diverse affiliations, with interests spanning AI, NLP, ML, and social sciences.
 
 ## What can I get from the collaboration?
 
