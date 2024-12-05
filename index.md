@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Grassroots Science: A Global Initiative for Multilingual Language Models
+
 
 # About the Initiative
 
