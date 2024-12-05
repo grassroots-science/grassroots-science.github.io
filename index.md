@@ -6,11 +6,11 @@ description: A global initiative focused on developing state-of-the-art multilin
 
 ## About the Initiative
 
-Grassroots Science is a year-long global collaboration aimed at collecting multilingual data through crowdsourcing, initiated by grassroots communities who believe in the power of collective efforts to achieve significant advancements in research. Our goal is to create the best resources for training multilingual large language models by engaging researchers fluent in various languages, dialects, and tongues. We plan to launch the project in early February 2025.
+Grassroots Science is a year-long global collaboration aimed at collecting multilingual data through crowdsourcing, initiated by grassroots communities who believe in the power of collective efforts to achieve significant advancements in research. Our goal is to create the best resources for training multilingual large language models by engaging researchers fluent in various languages, dialects, and tongues. We plan to launch the project in **early February 2025**.
 
 ## Who is Organizing?
 
-Grassroots Science is an open research collaboration initiated by members of various grassroots communities, including [SIGSEA](https://www.sigsea.org/), [Masakhane](https://www.masakhane.io/), and past collaborators of [BigScience Workshop](https://bigscience.huggingface.co/). This research workshop brings together academic, industrial, and independent researchers from diverse affiliations, with interests spanning AI, NLP, ML, and social sciences.
+Grassroots Science is an open research collaboration initiated by members of various grassroots communities, including [SIGSEA](https://www.sigsea.org/), [Masakhane](https://www.masakhane.io/), and past collaborators of [BigScience Workshop](https://bigscience.huggingface.co/). This research collaboration brings together academic, industrial, and independent researchers from diverse affiliations, with interests spanning AI, NLP, ML, and social sciences.
 
 ## Join Us
 
