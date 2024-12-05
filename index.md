@@ -10,7 +10,7 @@ Grassroots Science is a year-long global collaboration aimed at collecting multi
 
 # Who is Organizing?
 
-Grassroots Science is an open collaboration initiated by HuggingFace, GENCI, and IDRIS, organized as an academic partnership. This research workshop brings together academic, industrial, and independent researchers from diverse affiliations, with interests spanning AI, NLP, ML, and social sciences.
+Grassroots Science is an open research collaboration. This research workshop brings together academic, industrial, and independent researchers from diverse affiliations, with interests spanning AI, NLP, ML, and social sciences.
 
 # Join Us
 
