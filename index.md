@@ -14,4 +14,4 @@ Grassroots Science is an open research collaboration. This research workshop bri
 
 ## Join Us
 
-Stay updated by visiting our X account: https://x.com/GrassrootsSci. We look forward to your participation!
+Stay updated by visiting our [X account](https://x.com/GrassrootsSci). We look forward to your participation!
