@@ -8,6 +8,13 @@ description: A global initiative focused on developing state-of-the-art multilin
 
 Grassroots Science is a year-long global collaboration aimed at collecting multilingual data through crowdsourcing, initiated by grassroots communities who believe in the power of collective efforts to achieve significant advancements in research. Our goal is to create the best resources for training multilingual large language models by engaging researchers fluent in various languages, dialects, and tongues. We plan to launch the project in **early February 2025**.
 
+## What we do?
+
+- collection of pluralistic multilingual alignment data
+- post-training, evaluation, and benchmarking of frontier models using human preference data.
+- open-sourcing tools for collaborative grassroots projects
+
+
 ## Who is Organizing?
 
 Grassroots Science is an open research collaboration initiated by members of various grassroots communities, including [SIGSEA](https://www.sigsea.org/) (aka [SEACrowd](https://seacrowd.github.io/)), [Masakhane](https://www.masakhane.io/), [Rojak NLP](https://x.com/rojaknlp) and past collaborators of [BigScience Workshop](https://bigscience.huggingface.co/). This research collaboration brings together academic, industrial, and independent researchers from diverse affiliations, with interests spanning AI, NLP, ML, and social sciences.
