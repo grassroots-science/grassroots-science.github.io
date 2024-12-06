@@ -25,4 +25,4 @@ By joining this collaboration, you become part of a collective effort to shape t
 
 ## Join Us
 
-Stay updated by visiting our [X account](https://x.com/GrassrootsSci). We look forward to your participation!
+Stay updated by visiting our [X account](https://x.com/GrassrootsSci). Fill out the [interest form](https://forms.gle/i8mG999yRbznK8JE9). We look forward to your participation!
