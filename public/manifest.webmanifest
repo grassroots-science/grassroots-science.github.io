@@ -15,8 +15,8 @@
       "type": "image/png"
     }
   ],
-  "theme_color": "#ffffff",
-  "background_color": linear-gradient(120deg, #FD7F2C 0%, #056c9c  100%),
+  "theme_color": "linear-gradient(120deg, #FD7F2C 0%, #056c9c  100%)",
+  "background_color": "linear-gradient(120deg, #FD7F2C 0%, #056c9c  100%)",
   "display": "standalone",
   "start_url": "/"
 }
