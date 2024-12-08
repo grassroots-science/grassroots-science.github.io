@@ -1,0 +1,104 @@
+{{ define "main" }}
+<section class="section container-fluid mt-n3 pb-3">
+  <div class="row justify-content-center">
+    <div class="col-lg-12 text-center">
+      <h1>{{ .Title }}</h1>
+    </div>
+    <div class="col-lg-9 col-xl-8 text-center">
+      <p class="lead">{{ .Params.lead | safeHTML }}</p>
+      <!-- <a class="btn btn-primary btn-cta rounded-pill btn-lg my-3" href="/docs/{{ if site.Params.doks.docsVersioning }}{{ site.Params.doks.docsVersion }}/{{ end }}guides/example-guide/" role="button">{{ i18n "get_started" }} fdsa</a>
+      {{ .Content }} -->
+
+      <a class="btn btn-grad btn-cta rounded-pill btn-lg my-3" href="https://github.com/grassroots-science" role="button">GitHub</a>
+      <a class="btn btn-grad btn-cta rounded-pill btn-lg my-3" href="https://x.com/GrassrootsSci" role="button">X</a>
+      <a class="btn btn-grad btn-cta rounded-pill btn-lg my-3" href="https://huggingface.com/grassroots-science" role="button">HuggingFace</a>
+      <a class="btn btn-grad btn-cta rounded-pill btn-lg my-3" href="https://docs.google.com/forms/u/1/d/e/1FAIpQLSeLI-bwV0VYdwmRRqAzHtTSBMajNkUL-DG97LASSD2RmIZ1SQ/viewform?usp=send_form" role="button">Interested?</a>
+      {{ .Content }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
+{{ define "sidebar-prefooter" }}
+  {{ if site.Params.doks.backgroundDots -}}
+  <div class="d-flex justify-content-start">
+    <div class="bg-dots"></div>
+  </div>
+  {{ end -}}
+  {{ if eq $.Site.Language.LanguageName "English" }}
+  <section class="section section-md section-features">
+    <div class="container">
+
+      <div>
+        <h2 class="h4">About</h2>
+        <p style="text-align: left">Grassroots Science is a year-long global collaboration aimed at collecting multilingual data through crowdsourcing, initiated by grassroots communities who believe in the power of collective efforts to achieve significant advancements in research. Our goal is to create the best resources for training multilingual large language models by engaging researchers fluent in various languages, dialects, and tongues. <b>We plan to launch the project in early February 2025.</b></p>
+      </div>
+
+      <div>
+        <h2 class="h4">What we do</h2>
+        <div style="text-align: left">
+          <ul>
+            <li>Collection of pluralistic multilingual alignment data.</li>
+            <li>Post-training, evaluation, and benchmarking of frontier models on human preference data.</li>
+            <li>Open-sourcing tools for collaborative grassroots projects</li>
+          </ul>
+        </div>
+      </div>
+
+      <div>
+        <h2 class="h4">Who Is organizing?</h2>
+        <p style="text-align: left">Grassroots Science is an open research collaboration initiated by members of various <b>grassroots</b> communities, including <a href="https://www.sigsea.org/">SIGSEA</a> (aka <a href="https://seacrowd.github.io/">SEACrowd</a>), <a href="https://www.masakhane.io/">Masakhane</a>, <a href="https://ai4bharat.iitm.ac.in/">AI4Bharat</a> and past collaborators of <a href="https://bigscience.huggingface.co/">BigScience Workshop</a>. This research collaboration brings together academic, industrial, and independent researchers from diverse affiliations, with interests spanning AI, NLP, ML, and social sciences.</p>
+      </div>
+
+      <div>
+        <h2 class="h4">What can I get from the collaboration?</h2>
+        <p style="text-align: left">By joining this collaboration, you become part of a collective effort to shape the future of language model research. This initiative serves as a platform for advocating grassroots projects that drive significant advancements. We highly value and appreciate meaningful contributions, and significant contributors will be invited to co-author our upcoming paper by adapting a similar point system as <a href="https://seacrowd.github.io/">SEACrowd</a>. More details will be announced during the launch.</p>
+      </div>
+
+      <div>
+        <h2 class="h4">Join us!</h2>
+        <p style="text-align: left">Stay updated by visiting our <a href="https://x.com/GrassrootsSci">X account</a>. Fill out the <a href="https://forms.gle/i8mG999yRbznK8JE9">interest form</a>. We look forward to your participation!</p>
+      </div>
+
+
+
+
+      <!-- <div class="row justify-content-center text-center">
+        <div class="col-lg-5">
+          <h2 class="h4">What we do?</h2>
+          <div style="text-align: left">
+            <ul>
+              <li>Collection of pluralistic multilingual alignment data.</li>
+              <li>Post-training and benchmarking of frontier models on human preference data.</li>
+              <li>Open-sourcing tools for collaborative grassroots projects</li>
+            </ul>
+          </div>
+
+        </div>
+        <div class="col-lg-5">
+          <h2 class="h4">Who is organizing?</h2>
+          <p style="text-align: left">Grassroots Science is an open research collaboration initiated by members of various <b>grassroots</b> communities, including SIGSEA (aka SEACrowd), Masakhane, Rojak NLP, AI4Bharat and past collaborators of BigScience Workshop. This research collaboration brings together academic, industrial, and independent researchers from diverse affiliations, with interests spanning AI, NLP, ML, and social sciences.</p>
+        </div>
+        <div class="col-lg-5">
+          <h2 class="h4">What can I get from the collaboration?</h2>
+          <p style="text-align: left">By joining this collaboration, you become part of a collective effort to shape the future of language model research. This initiative serves as a platform for advocating grassroots projects that drive significant advancements. We highly value and appreciate meaningful contributions, and significant contributors will be invited to co-author our upcoming paper by adapting a similar point system as SEACrowd. More details will be announced during the launch.</p>
+        </div>
+      </div>-->
+
+    </div>
+  </section>
+  {{ end }}
+{{ end }}
+
+{{ define "sidebar-footer" }}
+{{ if site.Params.doks.sectionFooter -}}
+<section class="section section-md container-fluid bg-light">
+  <div class="row justify-content-center text-center">
+    <div class="col-lg-7">
+      <h2 class="mt-2">Start building with Doks today</h2>
+      <a class="btn btn-primary rounded-pill px-4 my-2" href="/docs/{{ if site.Params.doks.docsVersioning }}{{ site.Params.doks.docsVersion }}/{{ end }}prologue/introduction/" role="button">{{ i18n "get-started" }}</a>
+    </div>
+  </div>
+</section>
+{{ end -}}
+{{ end }}
