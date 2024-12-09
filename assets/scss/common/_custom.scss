@@ -19,7 +19,10 @@
 
 .banner {
   background-image: linear-gradient(120deg, #048558 0%, #056c9c  100%);
-  color: "#ffff"
+}
+
+.banner-text {
+  color: "#ffffff";
 }
 
 [data-bs-theme="dark"]
